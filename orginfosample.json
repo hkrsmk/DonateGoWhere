@@ -1,0 +1,1155 @@
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=YjQwNTU3ZTktNzg2NS1lMzExLTgyZGItMDA1MDU2YjMwNDg0&type=Organisation%20Profile
+{
+    "CharityName": "*SCAPE CO., LTD.",
+    "UENNo": "200712761D",
+    "RegistrationDate": "22/11/2007",
+    "ContactPerson": "Tan Lang Huang",
+    "OfficeNo": "65216565",
+    "FaxNo": "65216566",
+    "Email": "enquiries@scape.sg",
+    "Website": "http://www.scape.sg",
+    "Address": "SCAPE, 2 ORCHARD LINK , 04, 01, 237978",
+    "CharitySetup": "Company Limited by Guarantee",
+    "CharityCategory": "Registered With IPC",
+    "IPCStatus": "Live",
+    "IPCPeriod": "21/10/2018 to 20/10/2021",
+    "shoIPCPeriod": true,
+    "SingpassOFSCharityWithoutIPCOne": false,
+    "SectorAdministrator": "Ministry of Culture, Community and Youth",
+    "LastProfileUpdate": "13/11/2020",
+    "Objective": "(i) To encourage and promote social and cultural responsibilities  amongst the youth in Singapore through the promotion of  activities and youths expression; and  (ii) To cultivate amongst the youth a sense of well-being and  belonging and assist in their better integration and participation in  society and hence be of benefit to society.\t A youth community space in the heart of Orchard Road.\t   A vibrant facility that integrates all youth social network.    A space for the youth by the youth, *scape provides a platform   for the creative process and expression through engaging   activities in an inspiring environment.",
+    "VisionMission": "Vision  To be a celebrated talent and resource hub for aspiring youth, offering diverse, cutting-edge and trend-setting possibilities to all young Singaporeans.    Mission\tTo be a platform for youth expression; a catalyst for youth initiatives;   and an engine for\t\u003e Identifying, developing \u0026 promoting talents  \u003e An inspiring space for youth expressions  \u003e Cultivating social responsibility\t\u003e Nurturing \u0026 empowering youths  \u003e Connecting \u0026 supporting youth social network",
+    "OrganisationActivities": [
+        "Direct Services"
+    ],
+    "Patrons": [],
+    "GoverningMembers": [
+        {
+            "FullName": "CHUA DAVID",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "IVY LIM HUI LING",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "AHMAD FIRDAUS BIN DAUD",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "CHINNU PALANIVELU",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "LIM YOU LING (LIN YILIN)",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "MINDY TEO SIMIN (MINDY ZHANG SIMIN)",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "ONG YING YING, DELFINE",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "QUEK CHOON YANG (GUO JUNYANG)",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "SNG KHAI LIN",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "TAY CHOON HONG (ZHENG CHUNHONG)",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "GOH SOK KIM",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "JEFFREY CHEONG HWEE HAN",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "LOI TERWAY, JESHER",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        }
+    ],
+    "KeyOfficers": [
+        {
+            "FullName": "CHUA DAVID",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "CEO",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "AHMAD FIRDAUS BIN DAUD",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "CHINNU PALANIVELU",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "LIM YOU LING (LIN YILIN)",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "MINDY TEO SIMIN (MINDY ZHANG SIMIN)",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "ONG YING YING, DELFINE",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "QUEK CHOON YANG (GUO JUNYANG)",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "SNG KHAI LIN",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "TAY CHOON HONG (ZHENG CHUNHONG)",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "GOH SOK KIM",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "JEFFREY CHEONG HWEE HAN",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "IVY LIM HUI LING",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "LOI TERWAY, JESHER",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        }
+    ],
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "hide3Tabs": false,
+    "FinancialSummary": false,
+    "FinancialStatement": true
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=YjQwNTU3ZTktNzg2NS1lMzExLTgyZGItMDA1MDU2YjMwNDg0&type=Financial%20Information
+{
+    "CharityName": "*SCAPE CO., LTD.",
+    "FinancialInfos": [
+        {
+            "FYPeriod": "Apr 2020 - Mar 2021",
+            "Income": "N.A",
+            "Spending": "N.A",
+            "fs_Submissionstatus": 3,
+            "Status": "Not Received",
+            "ViewOnSearch": true,
+            "mandatoryOFS": true,
+            "afssubmissionId": "1dd1d364-f779-eb11-a36d-005056962860",
+            "crmDocumentRecordID": null,
+            "crmDocumentRecords": null,
+            "FIPeriodDtls": null
+        },
+        {
+            "FYPeriod": "Apr 2019 - Mar 2020",
+            "Income": "12559972.0000",
+            "Spending": "13650392.0000",
+            "fs_Submissionstatus": 1,
+            "Status": "On Time",
+            "ViewOnSearch": true,
+            "mandatoryOFS": true,
+            "afssubmissionId": "e64f6c3b-ed90-ea11-b8fc-005056962860",
+            "crmDocumentRecordID": null,
+            "crmDocumentRecords": [
+                {
+                    "CRMDocumentRecordID": "74b4fe3d-2479-4a29-ab84-eb4763da4151",
+                    "FileName": "SCAPE_FS_Ended Mar2020.pdf"
+                }
+            ],
+            "FIPeriodDtls": null
+        },
+        {
+            "FYPeriod": "Apr 2018 - Mar 2019",
+            "Income": "11824930.0000",
+            "Spending": "12700694.0000",
+            "fs_Submissionstatus": 1,
+            "Status": "On Time",
+            "ViewOnSearch": true,
+            "mandatoryOFS": true,
+            "afssubmissionId": "5fc49bed-8b3b-e911-a55b-005056962860",
+            "crmDocumentRecordID": null,
+            "crmDocumentRecords": [
+                {
+                    "CRMDocumentRecordID": "03a295c3-b0d6-4dd2-9fdc-30c72099d2d0",
+                    "FileName": "Scape signed FS 31.3.2019.pdf"
+                }
+            ],
+            "FIPeriodDtls": null
+        }
+    ],
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "FinancialInfoReceipts": "[[{\"Key\":\"Receipts\",\"Value\":\"Donations in Cash\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Receipts\",\"Value\":\"Tax-Deductible\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"11990.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"863.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Non Tax-Deductible\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Total Donations in Cash\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"11990.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"863.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Donations in Kind\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Receipts\",\"Value\":\"Tax-Deductible \"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"-\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Non Tax-Deductible \"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"-\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Total Donations in Kind\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Government Grants\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"6665301.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"5815270.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Investment Income\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"191331.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"64996.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Programme Fees\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"37920.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"9056.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Others Income\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"5653430.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"5934745.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Total Receipts\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"12559972.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"11824930.0000\"}],[{\"Key\":\"Receipts\",\"Value\":\"Capital in Nature\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"274122.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"201787.0000\"}]]",
+    "FinancialInfoExpenses": "[[{\"Key\":\"Expenses\",\"Value\":\"Fund-Raising Expenses \"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Expenses\",\"Value\":\"Fund-Raising Expenses\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Expenses\",\"Value\":\"Charitable Activities\\/Programme Expenses\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Expenses\",\"Value\":\"Local (eg. Direct \u0026 Support)\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"1840649.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"1211295.0000\"}],[{\"Key\":\"Expenses\",\"Value\":\"Overseas (eg. Direct \u0026 Support)\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Expenses\",\"Value\":\"Total Charitable Activities\\/Programme Expenses\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"1840649.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"1211295.0000\"}],[{\"Key\":\"Expenses\",\"Value\":\"Expenses\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Expenses\",\"Value\":\"Other Expenses\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"11809743.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"11489399.0000\"}],[{\"Key\":\"Expenses\",\"Value\":\"Total Expenditure\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"13650392.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"12700694.0000\"}]]",
+    "FinancialInfoBalanceSheet": "[[{\"Key\":\"Balance Sheet\",\"Value\":\"Assets\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Land and Buildings\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Other Tangible Assets\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"25459576.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"2850292.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Investments\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Inventories\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Accounts Receivables\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"1253917.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"4634448.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Cash \u0026 Deposits\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"14553221.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"12955693.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Other Assets\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Assets\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"41266714.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"20440433.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Funds\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Unrestricted Funds\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"15272238.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"16886037.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Restricted Funds\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Endowments Funds\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Funds and Reserves\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"15272238.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"16886037.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Liabilities\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Current Liabilities\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"6016839.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"2154792.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Non-Current Liabilities\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"19977637.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"1399604.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Liabilities\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"25994476.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"3554396.0000\"}],[{\"Key\":\"Balance Sheet\",\"Value\":\"Total Funds and Liabilities\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"41266714.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"20440433.0000\"}]]",
+    "FinancialInfoOtherInformation": "[[{\"Key\":\"Other Information\",\"Value\":\"Donations, Grants and Sponsorships given to other registered charities\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0.0000\"}],[{\"Key\":\"Other Information\",\"Value\":\"No. of Employees\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"36\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"35\"}],[{\"Key\":\"Other Information\",\"Value\":\"Total Employee Cost\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"2715681.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"2515586.0000\"}],[{\"Key\":\"Other Information\",\"Value\":\"Fund Raising Efficiency Ratio\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"0\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"0\"}],[{\"Key\":\"Other Information\",\"Value\":\"Total Related Party Transactions\"},{\"Key\":\"Apr 2020 - Mar 2021\",\"Value\":\"N.A\"},{\"Key\":\"Apr 2019 - Mar 2020\",\"Value\":\"2590.0000\"},{\"Key\":\"Apr 2018 - Mar 2019\",\"Value\":\"29310.0000\"}]]",
+    "ShowFSDetail": true
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=YjQwNTU3ZTktNzg2NS1lMzExLTgyZGItMDA1MDU2YjMwNDg0&type=Annual%20Report
+{
+    "CharityName": "*SCAPE CO., LTD.",
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "AnnualRpts": [
+        {
+            "AnnualRptStatus": "Not Received",
+            "ar_Submissionstatus": 3,
+            "FYPeriod": "Apr 2020 - Mar 2021",
+            "crmDocumentRecordID": [],
+            "crmDocumentRecords": null,
+            "annualreportID": "22d1d364-f779-eb11-a36d-005056962860"
+        },
+        {
+            "AnnualRptStatus": "On Time",
+            "ar_Submissionstatus": 1,
+            "FYPeriod": "Apr 2019 - Mar 2020",
+            "crmDocumentRecordID": [],
+            "crmDocumentRecords": [
+                {
+                    "CRMDocumentRecordID": "acbed6a4-6eb1-4593-8dc3-e62df42e1754",
+                    "FileName": "SCAPE Annual Report 2019_2020.pdf"
+                }
+            ],
+            "annualreportID": "7c0c1742-ed90-ea11-b8fc-005056962860"
+        },
+        {
+            "AnnualRptStatus": "On Time",
+            "ar_Submissionstatus": 1,
+            "FYPeriod": "Apr 2018 - Mar 2019",
+            "crmDocumentRecordID": [],
+            "crmDocumentRecords": [
+                {
+                    "CRMDocumentRecordID": "2d8c076e-0a43-45a1-aea7-51a51c17e8e4",
+                    "FileName": "Scape Annual Report 2019.pdf"
+                }
+            ],
+            "annualreportID": "64c49bed-8b3b-e911-a55b-005056962860"
+        }
+    ]
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=YjQwNTU3ZTktNzg2NS1lMzExLTgyZGItMDA1MDU2YjMwNDg0&type=Code%20Compliance
+{
+    "CharityName": "*SCAPE CO., LTD.",
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "CodeCompliance": {
+        "CodeComplianceInfosGEC": [
+            "IPC: Latest three financial years",
+            "Non-IPC: From FY2014 onwards"
+        ],
+        "EvalInfos": [
+            {
+                "EvalPeriod": "Apr 2020 - Mar 2021",
+                "EvalInfoStatus": "Not Received",
+                "gec_Submissionstatus": 3,
+                "CodeCompliance": [],
+                "FinancialYear": "FY2021",
+                "MandatoryToSubmitGEC": true
+            },
+            {
+                "EvalPeriod": "Apr 2019 - Mar 2020",
+                "EvalInfoStatus": "On Time",
+                "gec_Submissionstatus": 1,
+                "CodeCompliance": [
+                    {
+                        "CodeDesc": "Induction and orientation are provided to incoming governing board members upon joining the Board.",
+                        "CodeID": "1.1.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "1"
+                    },
+                    {
+                        "CodeDesc": "Are there governing board members holding staff* appointments?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "2"
+                    },
+                    {
+                        "CodeDesc": "Staff does not chair the Board and does not comprise more than one third of the Board.",
+                        "CodeID": "1.1.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "3"
+                    },
+                    {
+                        "CodeDesc": "There are written job descriptions for the staff’s executive functions and operational duties, which are distinct from the staff’s Board role.",
+                        "CodeID": "1.1.5",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "4"
+                    },
+                    {
+                        "CodeDesc": "The Treasurer of the charity (or any person holding an equivalent position in the charity, e.g. Finance Committee Chairman or a governing board member responsible for overseeing the finances of the charity) can only serve a maximum of 4 consecutive years.  If the charity has not appointed any governing board member to oversee its finances, it will be presumed that the Chairman oversees the finances of the charity.",
+                        "CodeID": "1.1.7",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "5"
+                    },
+                    {
+                        "CodeDesc": "All governing board members must submit themselves for re-nomination and re-appointment, at least once every 3 years.",
+                        "CodeID": "1.1.8",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "6"
+                    },
+                    {
+                        "CodeDesc": "The Board conducts self evaluation to assess its performance and effectiveness once during its term or every 3 years, whichever is shorter.",
+                        "CodeID": "1.1.12",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "7"
+                    },
+                    {
+                        "CodeDesc": "Is there any governing board member who has served for more than 10 consecutive years?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "No",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "8"
+                    },
+                    {
+                        "CodeDesc": "There are documented terms of reference for the Board and each of its committees.",
+                        "CodeID": "1.2.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "10"
+                    },
+                    {
+                        "CodeDesc": "There are documented procedures for governing board members and staff to declare actual or potential conflicts of interest to the Board at the earliest opportunity.",
+                        "CodeID": "2.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "11"
+                    },
+                    {
+                        "CodeDesc": "Governing board members do not vote or participate in decision making on matters where they have a conflict of interest.",
+                        "CodeID": "2.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "12"
+                    },
+                    {
+                        "CodeDesc": "The Board periodically reviews and approves the strategic plan for the charity to ensure that the charity\u0027s activities are in line with the charity\u0027s objectives.",
+                        "CodeID": "3.2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "13"
+                    },
+                    {
+                        "CodeDesc": "There is a documented plan to develop the capacity and capability of the charity and the Board monitors the progress of the plan.",
+                        "CodeID": "3.2.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "14"
+                    },
+                    {
+                        "CodeDesc": "The Board approves documented human resource policies for staff.",
+                        "CodeID": "5.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "15"
+                    },
+                    {
+                        "CodeDesc": "There is a documented Code of Conduct for governing board members, staff and volunteers (where applicable) which is approved by the Board.",
+                        "CodeID": "5.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "16"
+                    },
+                    {
+                        "CodeDesc": "There are processes for regular supervision, appraisal and professional development of staff.",
+                        "CodeID": "5.5",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "17"
+                    },
+                    {
+                        "CodeDesc": "Are there volunteers serving in the charity?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "18"
+                    },
+                    {
+                        "CodeDesc": "There are volunteer management policies in place for volunteers.",
+                        "CodeID": "5.7",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "19"
+                    },
+                    {
+                        "CodeDesc": "There is a documented policy to seek the Board\u0027s approval for any loans, donations, grants or financial assistance provided by the charity which are not part of the charity\u0027s core charitable programmes.",
+                        "CodeID": "6.1.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "20"
+                    },
+                    {
+                        "CodeDesc": "The Board ensures that internal controls for financial matters in key areas are in place with documented procedures.",
+                        "CodeID": "6.1.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "21"
+                    },
+                    {
+                        "CodeDesc": "The Board ensures that reviews on the charity\u0027s internal controls, processes, key programmes and events are regularly conducted.",
+                        "CodeID": "6.1.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "22"
+                    },
+                    {
+                        "CodeDesc": "The Board ensures that there is a process to identify, and regularly monitor and review the charity\u0027s key risks.",
+                        "CodeID": "6.1.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "23"
+                    },
+                    {
+                        "CodeDesc": "The Board approves an annual budget for the charity\u0027s plans and regularly monitors the charity\u0027s expenditure.",
+                        "CodeID": "6.2.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "24"
+                    },
+                    {
+                        "CodeDesc": "Does the charity invest its reserves (e.g. in fixed deposits)?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "25"
+                    },
+                    {
+                        "CodeDesc": "The charity has a documented investment policy approved by the Board.",
+                        "CodeID": "6.4.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "26"
+                    },
+                    {
+                        "CodeDesc": "Did the charity receive cash donations (solicited or unsolicited) during the financial year?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "27"
+                    },
+                    {
+                        "CodeDesc": "All collections received (solicited or unsolicited) are properly accounted for and promptly deposited by the charity.",
+                        "CodeID": "7.2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "28"
+                    },
+                    {
+                        "CodeDesc": "Did the charity receive donations in kind during the financial year?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "No",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "29"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses in its annual report - (a) the number of Board meetings in the financial year; and (b) the attendance of every governing board member at those meetings.",
+                        "CodeID": "8.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "31"
+                    },
+                    {
+                        "CodeDesc": "Are governing board members remunerated for their services to the Board?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "32"
+                    },
+                    {
+                        "CodeDesc": "No governing board member is involved in setting his own remuneration.",
+                        "CodeID": "2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "33"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses the exact remuneration and benefits received by each governing board member in its annual report. OR The charity discloses that no governing board member is remunerated.",
+                        "CodeID": "8.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": "In our annual report, band of salary  (as salary is sensitive ) disclosure is only for one individual. Board members are open to know the exact amount.",
+                        "PortalOrderNo": 0,
+                        "SINo": "34"
+                    },
+                    {
+                        "CodeDesc": "Does the charity employ paid staff?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "35"
+                    },
+                    {
+                        "CodeDesc": "No staff is involved in setting his own remuneration.",
+                        "CodeID": "2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "36"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses in its annual report - (a) the total annual remuneration for each of its 3 highest paid staff who each has received remuneration (including remuneration received from the charity\u0027s subsidiaries) exceeding $100,000 during the financial year; and (b) whether any of the 3 highest paid staff also serves as a governing board member of the charity. The information relating to the remuneration of the staff must be presented in bands of $100,000. OR The charity discloses that none of its paid staff receives more than $100,000 each in annual remuneration.",
+                        "CodeID": "8.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "37"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses the number of paid staff who satisfies all of the following criteria: (a) the staff is a close member of the family* belonging to the Executive Head* or a governing board member of the charity; (b) the staff has received remuneration exceeding $50,000 during the financial year. The information relating to the remuneration of the staff must be presented in bands of $100,000. OR The charity discloses that there is no paid staff, being a close member of the family* belonging to the Executive Head* or a governing board member of the charity, who has received remuneration exceeding $50,000 during the financial year.",
+                        "CodeID": "8.5",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "38"
+                    },
+                    {
+                        "CodeDesc": "The charity has a documented communication policy on the release of information about the charity and its activities across all media platforms.",
+                        "CodeID": "9.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "39"
+                    }
+                ],
+                "FinancialYear": "FY2020",
+                "MandatoryToSubmitGEC": true
+            },
+            {
+                "EvalPeriod": "Apr 2018 - Mar 2019",
+                "EvalInfoStatus": "On Time",
+                "gec_Submissionstatus": 1,
+                "CodeCompliance": [
+                    {
+                        "CodeDesc": "Induction and orientation are provided to incoming governing board members upon joining the Board.",
+                        "CodeID": "1.1.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "1"
+                    },
+                    {
+                        "CodeDesc": "Are there governing board members holding staff* appointments?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "2"
+                    },
+                    {
+                        "CodeDesc": "Staff does not chair the Board and does not comprise more than one third of the Board.",
+                        "CodeID": "1.1.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "3"
+                    },
+                    {
+                        "CodeDesc": "There are written job descriptions for the staff’s executive functions and operational duties, which are distinct from the staff’s Board role.",
+                        "CodeID": "1.1.5",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "4"
+                    },
+                    {
+                        "CodeDesc": "The Treasurer of the charity (or any person holding an equivalent position in the charity, e.g. Finance Committee Chairman or a governing board member responsible for overseeing the finances of the charity) can only serve a maximum of 4 consecutive years.  If the charity has not appointed any governing board member to oversee its finances, it will be presumed that the Chairman oversees the finances of the charity.",
+                        "CodeID": "1.1.7",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "5"
+                    },
+                    {
+                        "CodeDesc": "All governing board members must submit themselves for re-nomination and re-appointment, at least once every 3 years.",
+                        "CodeID": "1.1.8",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "6"
+                    },
+                    {
+                        "CodeDesc": "The Board conducts self evaluation to assess its performance and effectiveness once during its term or every 3 years, whichever is shorter.",
+                        "CodeID": "1.1.12",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "7"
+                    },
+                    {
+                        "CodeDesc": "Is there any governing board member who has served for more than 10 consecutive years?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "No",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "8"
+                    },
+                    {
+                        "CodeDesc": "There are documented terms of reference for the Board and each of its committees.",
+                        "CodeID": "1.2.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "10"
+                    },
+                    {
+                        "CodeDesc": "There are documented procedures for governing board members and staff to declare actual or potential conflicts of interest to the Board at the earliest opportunity.",
+                        "CodeID": "2.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "11"
+                    },
+                    {
+                        "CodeDesc": "Governing board members do not vote or participate in decision making on matters where they have a conflict of interest.",
+                        "CodeID": "2.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "12"
+                    },
+                    {
+                        "CodeDesc": "The Board periodically reviews and approves the strategic plan for the charity to ensure that the charity\u0027s activities are in line with the charity\u0027s objectives.",
+                        "CodeID": "3.2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "13"
+                    },
+                    {
+                        "CodeDesc": "There is a documented plan to develop the capacity and capability of the charity and the Board monitors the progress of the plan.",
+                        "CodeID": "3.2.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "14"
+                    },
+                    {
+                        "CodeDesc": "The Board approves documented human resource policies for staff.",
+                        "CodeID": "5.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "15"
+                    },
+                    {
+                        "CodeDesc": "There is a documented Code of Conduct for governing board members, staff and volunteers (where applicable) which is approved by the Board.",
+                        "CodeID": "5.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "16"
+                    },
+                    {
+                        "CodeDesc": "There are processes for regular supervision, appraisal and professional development of staff.",
+                        "CodeID": "5.5",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "17"
+                    },
+                    {
+                        "CodeDesc": "Are there volunteers serving in the charity?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "18"
+                    },
+                    {
+                        "CodeDesc": "There are volunteer management policies in place for volunteers.",
+                        "CodeID": "5.7",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "19"
+                    },
+                    {
+                        "CodeDesc": "There is a documented policy to seek the Board\u0027s approval for any loans, donations, grants or financial assistance provided by the charity which are not part of the charity\u0027s core charitable programmes.",
+                        "CodeID": "6.1.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "20"
+                    },
+                    {
+                        "CodeDesc": "The Board ensures that internal controls for financial matters in key areas are in place with documented procedures.",
+                        "CodeID": "6.1.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "21"
+                    },
+                    {
+                        "CodeDesc": "The Board ensures that reviews on the charity\u0027s internal controls, processes, key programmes and events are regularly conducted.",
+                        "CodeID": "6.1.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "22"
+                    },
+                    {
+                        "CodeDesc": "The Board ensures that there is a process to identify, and regularly monitor and review the charity\u0027s key risks.",
+                        "CodeID": "6.1.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "23"
+                    },
+                    {
+                        "CodeDesc": "The Board approves an annual budget for the charity\u0027s plans and regularly monitors the charity\u0027s expenditure.",
+                        "CodeID": "6.2.1",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "24"
+                    },
+                    {
+                        "CodeDesc": "Does the charity invest its reserves (e.g. in fixed deposits)?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "25"
+                    },
+                    {
+                        "CodeDesc": "The charity has a documented investment policy approved by the Board.",
+                        "CodeID": "6.4.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "26"
+                    },
+                    {
+                        "CodeDesc": "Did the charity receive cash donations (solicited or unsolicited) during the financial year?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "27"
+                    },
+                    {
+                        "CodeDesc": "All collections received (solicited or unsolicited) are properly accounted for and promptly deposited by the charity.",
+                        "CodeID": "7.2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "28"
+                    },
+                    {
+                        "CodeDesc": "Did the charity receive donations in kind during the financial year?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "No",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "29"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses in its annual report - (a) the number of Board meetings in the financial year; and (b) the attendance of every governing board member at those meetings.",
+                        "CodeID": "8.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "31"
+                    },
+                    {
+                        "CodeDesc": "Are governing board members remunerated for their services to the Board?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "32"
+                    },
+                    {
+                        "CodeDesc": "No governing board member is involved in setting his own remuneration.",
+                        "CodeID": "2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "33"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses the exact remuneration and benefits received by each governing board member in its annual report. OR The charity discloses that no governing board member is remunerated.",
+                        "CodeID": "8.3",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "34"
+                    },
+                    {
+                        "CodeDesc": "Does the charity employ paid staff?",
+                        "CodeID": null,
+                        "Compliance": null,
+                        "ComplianceText": "Yes",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "35"
+                    },
+                    {
+                        "CodeDesc": "No staff is involved in setting his own remuneration.",
+                        "CodeID": "2.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "36"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses in its annual report - (a) the total annual remuneration for each of its 3 highest paid staff who each has received remuneration (including remuneration received from the charity\u0027s subsidiaries) exceeding $100,000 during the financial year; and (b) whether any of the 3 highest paid staff also serves as a governing board member of the charity. The information relating to the remuneration of the staff must be presented in bands of $100,000. OR The charity discloses that none of its paid staff receives more than $100,000 each in annual remuneration.",
+                        "CodeID": "8.4",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "37"
+                    },
+                    {
+                        "CodeDesc": "The charity discloses the number of paid staff who satisfies all of the following criteria: (a) the staff is a close member of the family* belonging to the Executive Head* or a governing board member of the charity; (b) the staff has received remuneration exceeding $50,000 during the financial year. The information relating to the remuneration of the staff must be presented in bands of $100,000. OR The charity discloses that there is no paid staff, being a close member of the family* belonging to the Executive Head* or a governing board member of the charity, who has received remuneration exceeding $50,000 during the financial year.",
+                        "CodeID": "8.5",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "38"
+                    },
+                    {
+                        "CodeDesc": "The charity has a documented communication policy on the release of information about the charity and its activities across all media platforms.",
+                        "CodeID": "9.2",
+                        "Compliance": null,
+                        "ComplianceText": "Complied",
+                        "Explanation": null,
+                        "PortalOrderNo": 0,
+                        "SINo": "39"
+                    }
+                ],
+                "FinancialYear": "FY2019",
+                "MandatoryToSubmitGEC": true
+            }
+        ],
+        "items": null
+    },
+    "SingpassGovernanceEvaluationReport": false,
+    "SingpassGovernanceEvaluationReportOne": false
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Organisation%20Profile
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Financial%20Information
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Annual%20Report
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Code%20Compliance
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=OTcyNzUzOTctZTQzOS1lYjExLWI4MTItMDA1MDU2OTYyODYw&type=Organisation%20Profile
+{
+    "CharityName": "=DREAMS (SINGAPORE) LIMITED",
+    "UENNo": "202032457N",
+    "RegistrationDate": "01/4/2021",
+    "ContactPerson": "Ng Say Lee",
+    "OfficeNo": "63511003",
+    "FaxNo": "63540155",
+    "Email": "hello@dreamsasia.org",
+    "Website": "www.dreamsasia.org",
+    "Address": "SINGAPORE LAND TOWER, 50 RAFFLES PLACE , 17, 01, 048623",
+    "CharitySetup": "Company Limited by Guarantee",
+    "CharityCategory": "Registered With IPC",
+    "IPCStatus": "Live",
+    "IPCPeriod": "01/4/2021 to 31/3/2022",
+    "shoIPCPeriod": true,
+    "SingpassOFSCharityWithoutIPCOne": false,
+    "SectorAdministrator": "Ministry of Social and Family Development",
+    "LastProfileUpdate": "31/03/2021",
+    "Objective": "=DREAMS Singapore is a secular, co-ed weekday residential model that provides after-school education and holistic support, =DREAMS aspires to create a child-centric holistic system of care.  \r\n\r\nAn initiative by the South Central Community Family Service Centre, =DREAMS empowers promising and deserving children who come from low-income households to break out of poverty and dream of a future where they are not limited by their family circumstances.",
+    "VisionMission": "ABOUT US\r\n\r\nWHAT: =DREAMS is a residential model that provides after-school enrichment and holistic developmental support so that each child can focus on meeting their potential for a tertiary education. \r\n\r\nWHY: While 90% of Singapore’s households live in homes of their own, families living in public rental housing may need socio-economic support, including help with their children’s development. =DREAMS seeks to provide opportunities to the aspiring children of these families, some of whom may be 2nd and 3rd generation occupants of public rental homes.\r\n\r\nWHO: To qualify for the programme, the child should minimally have passed the Primary School Leaving Examination (PSLE) and received entry to a Secondary School. \r\n\r\nHOW: Successful applicants will benefit from the programme for up to 6 years, from Secondary 1 to Pre-tertiary. Children will stay in =DREAMS during the school week and return home over the weekends and school holidays. During the week, they will commute to school themselves and return after the school day ends where daily support with school work will be provided. Families can look forward to all-rounded enrichment for their children under =DREAMS, as developmental and differentiated programmes such as coding classes, eco-citizenship cultivation lessons, leadership and critical-thinking-focused training, will be incorporated into their schedules and offered during term breaks. We will partner with parents and community to encourage integrated care and foster the kampung spirit. \r\n\r\n=DREAMS will be funded through donations and in-kind sponsorships. We are currently in the process of selecting a venue for the facility and hope to secure one by the second quarter of 2021 for intake by the end of 2021.",
+    "OrganisationActivities": [
+        "Direct Services",
+        "Financial assistance, bursaries \u0026 scholarships",
+        "Training \u0026 education"
+    ],
+    "Patrons": [],
+    "GoverningMembers": [
+        {
+            "FullName": "TAN POH LENG STANLEY",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "SHARON TOCK TSU-LIN",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "GAIL TAN SWEE HUA",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "LIM CHIWEN KARTINI",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "POON KAI LEON, MELVIN",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "LAURA POH",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "YEOW YIN PEH, LYNN",
+            "OrganisationRole": "BoardMembers",
+            "Designation": "DIRECTOR",
+            "IsKeyOfficer": false
+        }
+    ],
+    "KeyOfficers": [
+        {
+            "FullName": "POON KAI LEON, MELVIN",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Director",
+            "IsKeyOfficer": false
+        },
+        {
+            "FullName": "Aw Ee Tuan",
+            "OrganisationRole": "KeyOfficer",
+            "Designation": "Secretary",
+            "IsKeyOfficer": false
+        }
+    ],
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "hide3Tabs": false,
+    "FinancialSummary": false,
+    "FinancialStatement": true
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=OTcyNzUzOTctZTQzOS1lYjExLWI4MTItMDA1MDU2OTYyODYw&type=Financial%20Information
+{
+    "CharityName": "=DREAMS (SINGAPORE) LIMITED",
+    "FinancialInfos": [],
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "FinancialInfoReceipts": "",
+    "FinancialInfoExpenses": "",
+    "FinancialInfoBalanceSheet": "",
+    "FinancialInfoOtherInformation": "",
+    "ShowFSDetail": false
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=OTcyNzUzOTctZTQzOS1lYjExLWI4MTItMDA1MDU2OTYyODYw&type=Annual%20Report
+{
+    "CharityName": "=DREAMS (SINGAPORE) LIMITED",
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "AnnualRpts": []
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=OTcyNzUzOTctZTQzOS1lYjExLWI4MTItMDA1MDU2OTYyODYw&type=Code%20Compliance
+{
+    "CharityName": "=DREAMS (SINGAPORE) LIMITED",
+    "requiresLogin": false,
+    "requiresDocLogin": true,
+    "CodeCompliance": {
+        "CodeComplianceInfosGEC": [
+            "IPC: Latest three financial years",
+            "Non-IPC: From FY2014 onwards"
+        ],
+        "EvalInfos": [],
+        "items": null
+    },
+    "SingpassGovernanceEvaluationReport": false,
+    "SingpassGovernanceEvaluationReportOne": false
+}
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Organisation%20Profile
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Financial%20Information
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Annual%20Report
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=
+&type=Code%20Compliance
+
+--_curl_--https: //www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.ashx?query=YjM4YTg2MzMtN2E2NS1lMzExLTgyZGItMDA1MDU2YjMwNDg0&type=Organisation%20Profile
