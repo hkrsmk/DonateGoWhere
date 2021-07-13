@@ -40,6 +40,6 @@ def request_data(item, index2=-1, item2 = '', printname = 'no'):
 
 # request_data('KeyOfficers')
 # request_data('UENNo')
-request_data("FinancialInfos", index2=1, item2='Income', printname='no')
-
+# request_data("FinancialInfos", index2=1, item2='Income', printname='no')
+request_data("FinancialInfos", index2=1, item2='Spending', printname='no')
 # full 'depth' of file: print(data[0]['FinancialInfos'][1]['crmDocumentRecords'][0]['FileName'])
