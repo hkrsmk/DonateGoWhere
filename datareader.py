@@ -2,7 +2,10 @@ import json
 import re
 
 # load database
+# database of IPCs
 file_name = "orginfo4in1.json"
+# for full database
+# file_name = "datascraper/allcharityinfoallin1.json"
 
 with open(file_name) as f:
     data = json.load(f)
@@ -71,7 +74,7 @@ def make_csv(list, requests, i):
 
 # Call examples:
 
-# request_data(['VisionMission'])
+request_data(['UENNo'])
 # request_data(['ContactPerson','Email'])
 # request_data(["FinancialInfos"], index2=1, item2=['Income'])
 # request_data(["FinancialInfos"], index2=2, item2=['Income','Spending'], printname='no')
