@@ -3,7 +3,7 @@ import re
 
 # load database
 # database of IPCs
-file_name = "orginfo4in1.json"
+file_name = "datascraper/ipc_info4in1.json"
 # for full database
 # file_name = "datascraper/allcharityinfoallin1.json"
 
@@ -50,13 +50,13 @@ def request_data(item, index2=-1, item2 = [], printname = 'no'):
                         try:
                             requests.write(data[index][one_item][index2][str(one_item2)])
 
-                            make_csv(item2, requests, one_item2)
-
                         except Exception as e:
                             # print(e)
                             requests.write('N.A')
                             # requests.write('NA for ' + data[index]['CharityName'])
                         
+                        make_csv(item2, requests, one_item2)
+
             requests.write('\n')
             index += 1
     
@@ -74,7 +74,13 @@ def make_csv(list, requests, i):
 
 # Call examples:
 
-request_data(['UENNo'])
-# request_data(['ContactPerson','Email'])
+# request_data(['UENNo'])
+# request_data(['Objective'])
+# request_data(['VisionMission'])
+# request_data(['Website','ContactPerson','Email'])
 # request_data(["FinancialInfos"], index2=1, item2=['Income'])
+
+# request_data(["FinancialInfos"], index2=1, item2=['Income','Spending'], printname='no')
+request_data(["FinancialInfos"], index2=2, item2=['Income','Spending'], printname='no')
+
 # request_data(["FinancialInfos"], index2=2, item2=['Income','Spending'], printname='no')

@@ -54,4 +54,5 @@ def run_both(filename):
 # uncurl('datascraper/orginfo')
 # json_maker('datascraper/orginfo')
 
-run_both('datascraper/allcharityinfo')
+# run_both('datascraper/allcharityinfo')
+run_both('datascraper/ipc_info')

@@ -28,3 +28,4 @@ def combine_data(file_name,number_of_charities):
 
 # combine_data("dataclean/orginfosample",633)
 # combine_data("datascraper/allcharity",2958)
+combine_data("datascraper/ipc_info",633)

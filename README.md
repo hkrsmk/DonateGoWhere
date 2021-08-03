@@ -11,9 +11,9 @@ Aka, how I got this data.
 In the below website, in status of charity, select 'IPCs' and click 'Search'
 https://www.charities.gov.sg/Pages/AdvanceSearch.aspx?q=
 
-I then downloaded all the pages individually as html files, and then ran a python script to get the links for each charity.
+I then downloaded all the pages individually as html files, and then ran a python script to get the links for each charity (in `python_beautifulsoup`). But there were bugs - for example, `11.html`, `12.html` and `13.html` are the same, and it really screwed up the data later on.
 
-### Easier way
+### Easier and bug-free way
 Observe the query and then write your own in cURL (see pictures and .out file)
 
 If using the easier method, `CharityAccountCRMRecordID` should be encoded with base64 before putting in as a query for individual charities. The easier way was used to get information on all charities, not just IPCs.

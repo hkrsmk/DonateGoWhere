@@ -27,7 +27,7 @@ curl "https://www.charities.gov.sg/_layouts/15/CPInternet/SearchResultHandler.as
 Financial%20Information,\
 Annual%20Report,\
 Code%20Compliance}"\
- -w "\n" >> orginfo.txt
+ -w "\n" >> ipc_info.txt
 # printf $charity_id
 # done < ID_listtest.txt
-done < ID_list.txt
+done < ipcIDs.txt
