@@ -1,11 +1,16 @@
 # How to use
-## Scraper folder
+## `website` folder
+Contains code for the website.
+
+## `data-processing` folder
+Contains code for extracting data from the official Singapore charities government website, via the APIs.
+
 ### datareader.py
-Get the requested data and outputs it into a `requested_data.txt` file, for pasting into google sheets. Just change the function call to info you want. The data is obtained from `orginfo4in1.json` - it is very big, you can download it but it's better not to open it. A sample can be found in `orginfosample4in1.json`.
+Get the requested data and outputs it into a `requested_data.txt` file, for pasting into google sheets. Just change the function call to info you want. The data is obtained from `datascraper/ipc_info4in1.json` - it is very big, you can download it but it's better not to open it. A sample can be found in `ipc_infosample4in1.json`.
 
-For the database of all charities, use `allcharityinfoallin1.json` as the database. The format is a little weird - each item is a one-item list instead of just a string. But should be good enough.
+For the database of all charities, use `datascraper/allcharityinfoallin1.json` as the database. The format is a little weird - each item is a one-item list instead of just a string. But should be good enough.
 
-## Below the hood
+### Below the hood
 Aka, how I got this data.
 
 ### 1. IDScraper
