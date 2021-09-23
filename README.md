@@ -1,5 +1,5 @@
 # How to use
-## `website` folder
+## `app` folder
 Contains code for the website.
 
 ## `data-processing` folder
