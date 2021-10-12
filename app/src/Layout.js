@@ -1,6 +1,6 @@
-const Navbar = () => {
+const Layout = () => {
   return (
-    <nav className="navbar">
+    <nav className="layout">
       <h1>DonateGoWhere</h1>
       <div className="links">
         <a href="/">Home</a>
@@ -12,4 +12,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Layout;
