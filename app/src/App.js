@@ -1,4 +1,4 @@
-import Navbar from "./Navbar";
+import Layout from "./Layout";
 import Home from "./Home";
 import About from "./About";
 import Evaluate from "./Evaluate";
@@ -7,9 +7,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
+  <Layout>
     <Router>
       <div className="App">
-        <Navbar />
         <div className="content">
           <Switch>
             <Route exact path="/">
@@ -28,6 +28,7 @@ function App() {
         </div>
       </div>
     </Router>
+    </Layout>
   );
 }
 
