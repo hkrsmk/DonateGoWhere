@@ -1,15 +1,12 @@
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import { Box, Container, Typography, Link } from '@mui/material/';
+import { Box, Container, IconButton, Stack, Typography } from '@mui/material/';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 function Copyright() {
   return (
   <Typography variant="body2" colour="text.secondary" align="center">
-  {'Copyright © '}
-  <Link color="inherit" href="github.com/hkrsmk/charitysg">
-  DonateGoWhere
-  </Link>{' '}
+  {'Copyright © DonateGoWhere '}
   {new Date().getFullYear()}
   {'.'}
   </Typography>
@@ -17,7 +14,7 @@ function Copyright() {
 }
 
 function Footer(props) {
-  const { description, title } = props;
+  const { description, title, repoLink } = props;
 
   return (
   <Box component="footer" sx={{ bgcolor: 'background.paper', py:6 }}>
@@ -33,8 +30,25 @@ function Footer(props) {
       >
         {description}
       </Typography>
-      <Copyright />
-      <GitHubIcon /> 
+
+      <Stack
+        direction="row"
+        justifyContent="center"
+        alignItems="center"
+        spacing={1}
+      >     
+        <Copyright />
+
+        <IconButton 
+          aria-label="Link to github repository"
+          href={repoLink}
+          target="_blank"
+        >
+            <GitHubIcon />
+        </IconButton>
+      
+      </Stack>
+
     </Container>
   </Box>
   );
@@ -43,6 +57,7 @@ function Footer(props) {
 Footer.propTypes = {
   description: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
+  repoLink: PropTypes.string.isRequired
 };
 
 export default Footer;
