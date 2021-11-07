@@ -3,7 +3,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 // import Grid from '@mui/material/Grid';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-// import Header from './Header'
+import Header from './Header'
 import Footer from './Footer';
 
 const theme = createTheme();
@@ -19,7 +19,7 @@ export default function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Container maxWidth="lg">
-        {/* <Header title="DonateGoWhere" sections={sections} /> */}
+        <Header title="DonateGoWhere" sections={sections} />
       </Container>
       <Footer
         title="DonateGoWhere"
