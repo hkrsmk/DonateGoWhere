@@ -28,13 +28,15 @@ export default function App() {
       </Container>
 
       <Router>
+        <Container maxWidth = "lg">
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/about" element={<About />} />
             <Route exact path="/evaluate" element={<Evaluate />} />
             <Route exact path="/contact" element={<Contact />} />
           </Routes>
-    </Router>
+        </Container>
+      </Router>
 
       <Footer
         title="DonateGoWhere"
