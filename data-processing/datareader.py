@@ -62,6 +62,36 @@ def request_data(item, index2=-1, item2 = [], printname = 'no'):
     
     return
 
+def request_data_financial(item, key_value, year_requested):
+
+    with open("requested_data.txt", "a") as requests:
+        for i in range(len(data)):
+            for one_item in item:
+                try:
+                    entire_item_array = json.loads(data[i][one_item])
+                except:
+                    requests.write("N.A.")
+                    continue
+
+                for one_item_array in entire_item_array:
+
+                    if one_item_array[0]["Value"] in key_value:
+
+                        # for if I want to make this print all values
+                        # result_array = []
+                        # for value in one_item_array[1:]:
+                        #     result_array.append(value["Value"])
+
+                        try:
+                            requests.write(one_item_array[year_requested]["Value"])
+
+                        except:
+                            requests.write("N.A.")
+
+            requests.write("\n")
+
+    return
+
 def make_csv(list, requests, i):
     ''' adds a comma after each item except the last item.
     Note that the file `requests` should be open already before running this function
@@ -81,6 +111,12 @@ def make_csv(list, requests, i):
 # request_data(["FinancialInfos"], index2=1, item2=['Income'])
 
 # request_data(["FinancialInfos"], index2=1, item2=['Income','Spending'], printname='no')
-request_data(["FinancialInfos"], index2=2, item2=['Income','Spending'], printname='no')
+# request_data(["FinancialInfos"], index2=2, item2=['Income','Spending'], printname='no')
 
 # request_data(["FinancialInfos"], index2=2, item2=['Income','Spending'], printname='no')
+
+# observe the data to find out the year corresponding to the needed data
+# Apr 2018 - Mar 2019 == 3
+# Apr 2019 - Mar 2020 == 2
+# Apr 2020 - Mar 2021 == 1
+request_data_financial(["FinancialInfoBalanceSheet"],["Total Funds and Reserves"],3)
